@@ -5,7 +5,6 @@ import numpy as np
 from PIL import Image
 from orangecontrib.image import ImageEmbedding
 
-# For Orange models
 from Orange.data.pandas_compat import table_from_frame
 from Orange.classification import LogisticRegressionLearner
 
